@@ -5,4 +5,4 @@
     <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="48" />
  </span>
 
-[DEMO](https://eloquent-jennings-535a08.netlify.app/)
+[DEMO](https://kind-ride-e4a6b3.netlify.app/)
